@@ -7,10 +7,10 @@ Podrobne fotografije šarenice človeškega očesa razkrijejo fascinantne, dozde
 
 ## Uporaba
 
-# Priprava
+### Priprava
 pip install -r requirements.txt
 
-# Zagon
+### Zagon
 Poženi aplikacijo s spletno kamero:
 ```
 	python iris.py cam
