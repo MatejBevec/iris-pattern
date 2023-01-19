@@ -1,0 +1,7 @@
+numpy
+scipy
+cv2
+matplotlib
+scikit-image
+mediapipe
+itertools
